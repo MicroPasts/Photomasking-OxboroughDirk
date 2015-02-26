@@ -1,5 +1,5 @@
-PyBossa photo masking application for the Deansfield mould
-=================================================================
+PyBossa photo masking application for the Deansfield moulds
+===========================================================
 
 This application has three files:
 
@@ -7,7 +7,7 @@ This application has three files:
 *  template.html: the view for every task and deal with the data of the answers.
 *  tutorial.html: a simple tutorial for the volunteers.
 
-![alt screenshot](http://micropasts.org/wp-content/uploads/2014/11/Burley_readme.png)
+![alt screenshot](http://micropasts.org/wp-content/uploads/2015/02/DeansfieldMould_Readme.png)
 
 Funded by
 =========
