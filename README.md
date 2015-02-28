@@ -1,5 +1,5 @@
-PyBossa photo masking application for the Deansfield moulds
-===========================================================
+PyBossa photo masking application for the Oxborough Dirk
+========================================================
 
 This application has three files:
 
